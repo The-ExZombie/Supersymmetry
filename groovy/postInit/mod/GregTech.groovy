@@ -608,7 +608,7 @@ mods.gregtech.fluid_solidifier.recipeBuilder()
 
 // Home block
 crafting.replaceShaped('susy:home_block', item('susy:home_block'), [
-        [null, ore('toolHammer'), null],
+        [null, ore('toolFile'), null],
         [null, ore('stoneSmooth'), null],
         [null, null, null]
 ])
